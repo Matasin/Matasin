@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Patryk, React Front-End developer](https://assets.selleo.com/banners/placiak.svg)](https://selleo.com/)
 
 <!--
