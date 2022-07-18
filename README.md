@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Patryk, React Front-End developer](https://assets.selleo.com/banners/placiak.svg)](https://selleo.com/)
 
 <!--
 **Matasin/Matasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
