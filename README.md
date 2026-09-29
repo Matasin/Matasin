@@ -1,16 +1,13 @@
-[![Patryk, React Front-End developer](https://assets.selleo.com/banners/placiak.svg)](https://selleo.com/)
+# Hi, I'm Patryk
 
-<!--
-**Matasin/Matasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web and mobile apps, mostly with React, TypeScript
+and React Native.
 
-Here are some ideas to get you started:
+My work also includes browser-based 3D tools with Three.js
+and VTK/C++ compiled to WebAssembly, shared UI libraries,
+and backend integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside work, I build apps I use myself, from workout tracking
+to piano practice tools.
+
+[LinkedIn](https://www.linkedin.com/in/patryk-%C5%82aciak-6795ba1b6/)
