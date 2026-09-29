@@ -9,5 +9,3 @@ and backend integrations.
 
 Outside work, I build apps I use myself, from workout tracking
 to piano practice tools.
-
-[LinkedIn](https://www.linkedin.com/in/patryk-%C5%82aciak-6795ba1b6/)
