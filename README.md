@@ -1,11 +1,30 @@
-# Hi, I'm Patryk
+# Patryk Łaciak
 
-I build web and mobile apps, mostly with React, TypeScript
-and React Native.
+Full-stack developer with a frontend focus.
 
-My work also includes browser-based 3D tools with Three.js
-and VTK/C++ compiled to WebAssembly, shared UI libraries,
-and backend integrations.
+I build web and mobile applications with React, TypeScript
+and React Native. I also work on browser-based 3D tools,
+where geometry, charts and application UI need to work together.
 
-Outside work, I build apps I use myself, from workout tracking
-to piano practice tools.
+### What I work on
+
+- Web and mobile interfaces, shared components and UI libraries.
+- 3D visualization with Three.js and VTK/C++ compiled to WebAssembly.
+- Backend features and AI integrations with Node.js and Python.
+
+### Outside work
+
+I tend to build things I want to use myself: apps for tracking
+workouts, managing rental properties and practicing piano.
+
+One of those projects is a fork of OpenThesia. I ported it
+to macOS, then rebuilt parts of the interface and added features
+for my own practice sessions.
+
+### Tools I use
+
+**Frontend:** React · TypeScript · React Native · Tailwind CSS  
+**3D & visualization:** Three.js · VTK · WebAssembly · D3  
+**Backend:** Node.js · Bun · Elysia · FastAPI · PostgreSQL
+
+[LinkedIn](https://www.linkedin.com/in/patryk-łaciak-6795ba1b6/)
