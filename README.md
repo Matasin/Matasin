@@ -27,4 +27,4 @@ for my own practice sessions.
 **3D & visualization:** Three.js · VTK · WebAssembly · D3  
 **Backend:** Node.js · Bun · Elysia · FastAPI · PostgreSQL
 
-[LinkedIn](https://www.linkedin.com/in/patryk-łaciak-6795ba1b6/)
+[More about me](https://patryklaciak.dev/) [LinkedIn](https://www.linkedin.com/in/patryk-łaciak-6795ba1b6/)
